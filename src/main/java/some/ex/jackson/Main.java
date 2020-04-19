@@ -26,7 +26,7 @@ public class Main {
         System.out.println(result);
 
         SomeData newData = objectMapper.readValue(result, SomeData.class);
-        System.out.println(newData);
+        System.out.println(someData);
 
     }
 

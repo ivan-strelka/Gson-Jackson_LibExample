@@ -1,6 +1,6 @@
-package com.test.json.ex_02_gson;
+package com.test.gsonAndJackson.ex_02_gson;
 
-import com.test.json.ex_02_gson.parser.GsonParser;
+import com.test.gsonAndJackson.ex_02_gson.parser.GsonParser;
 
 import java.io.IOException;
 

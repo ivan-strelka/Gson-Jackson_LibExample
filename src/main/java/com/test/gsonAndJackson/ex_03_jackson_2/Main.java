@@ -1,6 +1,6 @@
-package com.test.json.ex_03_jackson_2;
+package com.test.gsonAndJackson.ex_03_jackson_2;
 
-import com.test.json.ex_03_jackson_2.parser.JacksonParser;
+import com.test.gsonAndJackson.ex_03_jackson_2.parser.JacksonParser;
 
 import java.io.IOException;
 

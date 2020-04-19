@@ -1,7 +1,7 @@
-package com.test.json.ex_03_jackson_2.parser;
+package com.test.gsonAndJackson.ex_03_jackson_2.parser;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.test.json.ex_03_jackson_2.entity.CurrencyRate;
+import com.test.gsonAndJackson.ex_03_jackson_2.entity.CurrencyRate;
 
 import java.io.IOException;
 import java.net.URL;

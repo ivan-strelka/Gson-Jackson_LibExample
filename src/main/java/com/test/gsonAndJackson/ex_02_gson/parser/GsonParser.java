@@ -1,9 +1,9 @@
-package com.test.json.ex_02_gson.parser;
+package com.test.gsonAndJackson.ex_02_gson.parser;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 import com.google.gson.stream.JsonReader;
-import com.test.json.ex_02_gson.entity.CurrencyRate;
+import com.test.gsonAndJackson.ex_02_gson.entity.CurrencyRate;
 
 import java.io.IOException;
 import java.io.InputStreamReader;

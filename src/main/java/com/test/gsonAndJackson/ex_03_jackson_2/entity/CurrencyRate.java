@@ -1,17 +1,20 @@
-package com.test.json.ex_02_gson.entity;
+package com.test.gsonAndJackson.ex_03_jackson_2.entity;
 
-import com.google.gson.annotations.SerializedName;
+
+import com.fasterxml.jackson.annotation.JsonProperty;
 
 import java.math.BigDecimal;
 
 public class CurrencyRate {
 
 
-    @SerializedName("ccy")
+    @JsonProperty("ccy")
     private String from;
-    @SerializedName("base_ccy")
+    @JsonProperty("base_ccy")
     private String to;
+    @JsonProperty("buy")
     private BigDecimal buy;
+    @JsonProperty("sale")
     private BigDecimal sale;
 
     public CurrencyRate() {

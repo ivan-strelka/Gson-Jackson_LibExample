@@ -1,4 +1,4 @@
-package com.test.json.ex_01_jackson.entity;
+package com.test.gsonAndJackson.ex_01_jackson.entity;
 
 import java.util.List;
 

@@ -1,6 +1,6 @@
-package com.test.json.ex_01_jackson;
+package com.test.gsonAndJackson.ex_01_jackson;
 
-import com.test.json.ex_01_jackson.parse.JacksonDataBind;
+import com.test.gsonAndJackson.ex_01_jackson.parse.JacksonDataBind;
 
 public class Main {
 

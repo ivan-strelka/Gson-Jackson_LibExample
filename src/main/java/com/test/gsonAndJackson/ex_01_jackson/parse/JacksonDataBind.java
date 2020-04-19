@@ -1,7 +1,7 @@
-package com.test.json.ex_01_jackson.parse;
+package com.test.gsonAndJackson.ex_01_jackson.parse;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.test.json.ex_01_jackson.entity.Person;
+import com.test.gsonAndJackson.ex_01_jackson.entity.Person;
 
 import java.io.File;
 import java.io.IOException;
